@@ -1,7 +1,0 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/testgithub/.vs/testgithub/FileContentIndex
-/testgithub/testgithub
-/testgithub/.vs/testgithub/DesignTimeBuild
