@@ -19,7 +19,8 @@ namespace testgithub.Controllers
         }
         public IActionResult testOne()
         {
-            return View();
+            var Name = "taghreed Ashraf";
+            return View(Name);
         }
 
         public IActionResult testTwo()
