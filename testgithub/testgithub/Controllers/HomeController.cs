@@ -17,6 +17,16 @@ namespace testgithub.Controllers
         {
             return View();
         }
+        public IActionResult testOne()
+        {
+            return View();
+        }
+
+        public IActionResult testTwo()
+        {
+            return View();
+        }
+
 
         public IActionResult Privacy()
         {
