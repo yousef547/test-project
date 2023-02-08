@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/testgithub/testgithub/testgithub.csproj.user
+/testgithub/testgithub/obj/Debug/net6.0/testgithub.GeneratedMSBuildEditorConfig.editorconfig
+/testgithub/testgithub/obj/Debug/net6.0/project.razor.vs.json
+/testgithub/.vs/testgithub/FileContentIndex/ce95eaab-64a9-42e9-9a1c-bd1f849e1a46.vsidx
+/testgithub/.vs/testgithub/FileContentIndex/a11de576-705b-4618-81d5-d25e664f703d.vsidx
+/testgithub/.vs/testgithub/FileContentIndex/62272a27-8c94-4364-a82a-b3264888dbde.vsidx
+/testgithub/.vs/testgithub/FileContentIndex/4f64b053-ea0e-4cf8-8b75-68145e3145ec.vsidx
