@@ -25,7 +25,9 @@ namespace testgithub.Controllers
 
         public IActionResult testTwo()
         {
-            return View();
+
+            var newtes = "hello from egypt";
+            return View(newtes);
         }
 
 
